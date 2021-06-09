@@ -6,8 +6,8 @@
 #
 # dependencies:
 #   # Pip dependencies on PyPI
-#   python:
-#     - requests
+    python:
+      - textblob
 #     - gensim
 #
 #   # Install packages with the system package manager
